@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748790111114",
+    "project_id": "weatherappp-40d3d",
+    "storage_bucket": "weatherappp-40d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748790111114:android:2f9450faaf62c53fe60673",
+        "android_client_info": {
+          "package_name": "com.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748790111114-e7uikhf37pqolvctnjj9l83fli46g2gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaNZ1Y7FjAfsTdFKCDY64FxPcpnPDW-Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748790111114-e7uikhf37pqolvctnjj9l83fli46g2gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
